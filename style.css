@@ -1,0 +1,308 @@
+* {
+    margin: 4px;
+    padding: 0px;
+}
+
+.firsthr {
+    border: none;
+    background-color: rgb(207, 54, 62);
+    height: 2px;
+    width: 100%;
+}
+
+.subheader1 {
+    border: none;
+    background-color: rgb(207, 54, 62);
+    height: 3px;
+    margin-left: 47%;
+    width: 6%;
+}
+
+.searchbox {
+    width: 300px;
+    box-sizing: border-box;
+    font-size: 14px;
+    background-color: rgb(237, 237, 237);
+    background-image: url('search-icon.png');
+    background-position: 260px 10px;
+    background-repeat: no-repeat;
+    padding: 10px 10px 10px 10px;
+    border-style: none;
+}
+
+.sub-navbar-link {
+    margin: 0px 0px 0px 350px;
+    display: flex;
+}
+
+.sport-searchbox {
+    margin: 15px 0px 0px 300px;
+}
+
+.div {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.sport-login {
+    margin: 15px 0px 0px 0px;
+    font-size: 12px;
+    padding-right: 10px;
+}
+
+.sport-wishlist {
+    margin: 15px 0px 0px 0px;
+    font-size: 12px;
+}
+
+.sport-cart {
+    margin: 15px 0px 0px 0px;
+    font-size: 12px;
+    padding-left: 10px;
+}
+
+.sport-title {
+    margin: 28px 0px 0px 50px;
+    font-size: 20px;
+    font-weight: bold;
+    color: rgb(207, 54, 62);
+}
+
+.navbar {
+    display: flex;
+}
+
+.navbar-link {
+    margin: 0px 0px 0px 0px;
+    display: flex;
+}
+
+a {
+    margin: initial;
+    text-decoration: none;
+    color: black;
+}
+
+.title {
+    height: 20px;
+    width: 80px;
+    margin: 2px 20px;
+}
+
+.description {
+    display: flex;
+    margin: 75px 0px;
+}
+
+.description-text {
+    height: 300px;
+    width: 500px;
+    margin: 0px 200px 0px 80px;
+}
+
+.hero-header {
+    width: 400px;
+    height: 300px;
+}
+
+.shop_now {
+    border: none;
+    background-color: rgb(207, 54, 62);
+    padding: 10px 10px;
+    margin: 15px 5px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+    width: 180px;
+}
+
+.shop_now:hover {
+    cursor: pointer;
+}
+
+.text2 {
+    margin-right: 170px;
+    text-align: center;
+    margin-top: 80px;
+}
+
+.section2 {
+    display: flex;
+    margin: 20px;
+}
+
+.product_title {
+    margin-left: 75px;
+}
+
+.uphr {
+    border: none;
+    height: 6px;
+    background-color: rgb(237, 237, 237);
+    margin-left: 74px;
+    margin-bottom: 30px;
+}
+
+.sethw {
+    height: 210px;
+    width: 210px;
+    margin-left: 74px;
+    background-color: rgb(237, 237, 237);
+}
+
+.sethw1 {
+    height: 210px;
+    width: 270px;
+    margin-left: 74px;
+    background-color: rgb(237, 237, 237);
+}
+
+.sethw3 {
+    margin-left: 45px;
+    height: 175px;
+    width: 250px;
+    margin-left: 35px;
+    background-color: rgb(237, 237, 237);
+}
+
+.sethwmi {
+    height: 310px;
+    width: 310px;
+}
+
+.settext2 {
+    margin: 0px 2px;
+}
+
+.section3 {
+    display: flex;
+    margin-bottom: 75px;
+}
+
+.settext3 {
+    margin: 0px 0px 40px 200px;
+}
+
+.settext3_1 {
+    margin: 0px 0px 40px 200px;
+}
+
+.section4_1 {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.settext4 {
+    margin: 10px 0px 40px 100px;
+}
+
+.section5 {
+    background: rgb(207, 54, 62);
+    background: linear-gradient(270deg, rgba(207, 54, 62, 1) 7%, rgba(255, 255, 255, 1) 100%);
+    display: flex;
+    align-content: center;
+    justify-content: center;
+}
+
+.shop_now_5 {
+    border: none;
+    background-color: rgb(207, 54, 62);
+    padding: 10px 50px;
+    margin: 50px 0px;
+    text-align: center;
+    font-weight: bold;
+    border-style: none;
+    color: white;
+}
+
+.shop_now_5:hover {
+    cursor: pointer;
+}
+
+.section6 {
+    margin: 40px 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.ball_image {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.columnflex {
+    text-align: center;
+    margin: 4px 60px;
+    height: 252px;
+    width: 250px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-size: cover;
+    background-color: rgb(238, 227, 227);
+}
+
+.logo {
+    margin-top: 60px;
+    display: flex;
+    margin-bottom: 60px;
+}
+
+.logohw {
+    height: 100px;
+    width: 100px;
+    margin: 50px 80px;
+}
+
+footer {
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer2 {
+    display: flex;
+}
+
+.lastdis {
+    display: flex;
+}
+
+.footer1 {
+    margin: 12px 80px;
+}
+
+.lasth2 {
+    color: rgb(207, 54, 62);
+    margin-top: 25px;
+}
+
+.blockquote {
+    display: block;
+    padding: 15px 20px 15px 45px;
+    margin: 0 0 20px;
+    position: relative;
+}
+
+.blockquote::before {
+    content: "\201C";
+    font-size: 70px;
+    font-weight: bold;
+    color: rgb(207, 54, 62);
+    position: absolute;
+    left: 10px;
+    top: 5px;
+}
+
+.checked {
+    color: rgb(207, 54, 62);
+}
+
+.stars {
+    margin-left: 70px;
+}
